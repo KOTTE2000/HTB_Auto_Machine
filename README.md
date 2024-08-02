@@ -1,2 +1,1 @@
-HTB_Auto_Machine
-hack the box automation
+hack the box recon automation tool
